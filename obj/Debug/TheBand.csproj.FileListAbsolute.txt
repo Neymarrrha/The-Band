@@ -1,0 +1,6 @@
+/Users/mac/Desktop/ASP.NET/study/dom编程艺术/TheBand/TheBand/bin/TheBand.dll
+/Users/mac/Desktop/ASP.NET/study/dom编程艺术/TheBand/TheBand/bin/TheBand.pdb
+/Users/mac/Desktop/ASP.NET/study/dom编程艺术/TheBand/TheBand/obj/Debug/TheBand.csprojResolveAssemblyReference.cache
+/Users/mac/Desktop/ASP.NET/study/dom编程艺术/TheBand/TheBand/obj/Debug/TheBand.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/ASP.NET/study/dom编程艺术/TheBand/TheBand/obj/Debug/TheBand.dll
+/Users/mac/Desktop/ASP.NET/study/dom编程艺术/TheBand/TheBand/obj/Debug/TheBand.pdb
